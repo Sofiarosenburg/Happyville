@@ -42,6 +42,19 @@ The project features:
 - Realized that every challenge, even restarting, is part of the creative process.  
 - Most importantly, learned that art and design are about emotion, creating spaces that make people feel connected.
 
+## Time tracked
+- Since Spline is a platform that does not count the hours spent on the project, I made my own calendar with the days and hours I spent working on the project:
+September 16: 1.5 hours on Spline
+September 19: 1 hour on Spline
+September 22: 3 hours on Spline
+September 23: 0.5 hours on Spline
+September 26: 1.5 hours on Spline
+October 1: 2 hours on Spline
+October 2: 2.5 hours on Spline
+October 25: 1.5 hours on VS Code
+October 25: 0.5 hours on Vercel
+
+Translated with DeepL.com (free version)
 
 [![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
 
