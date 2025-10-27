@@ -17,22 +17,22 @@ switch (name) {
 case 'Chão':
 message = "Welcome to my village!";
 break;
-case 'Casa Biscoitos':
+case 'Casa biscoitos':
 message = "In this house, we bake delicious cookies! Can you smell it?";
 break;
-case 'Casa Sonhos':
+case 'Casa sonhos':
 message = "This is my dream house! My best friend will live right next door! So fun!";
 break;
-case 'Casa Gatos':
+case 'Casa gatos':
 message = "Here we have 13 cats, they're all adorable!";
 break;
-case 'Casa Fofa':
+case 'Casa fofa':
 message = "It's just a cute little house!";
 break;
 case 'Coelho':
 message = "I came to deliver Easter eggs! But shh, don’t tell anyone my secret!";
 break;
-case 'Casa Up':
+case 'Casa up':
 message = "This house is ready to fly away with balloons! Just like in the movie UP!";
 break;
 default:
