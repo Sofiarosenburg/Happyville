@@ -53,8 +53,6 @@ The project features:
 - Most importantly, learned that art and design are about emotion, creating spaces that make people feel connected.
 
 
-Translated with DeepL.com (free version)
-
 [![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
 
 Criar README inicial
